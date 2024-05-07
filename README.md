@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @desparvis
-- 👀 I’m interested in code
-- 🌱 I’m currently learning the Odin Project
-- 📫 Reach to me on twitter: gamingxube
+- I’m @desparvis
+- I’m interesting in programming
+- I’m currently studying at ALU
 
 <!---
 desparvis/desparvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
