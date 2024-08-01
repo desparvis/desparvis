@@ -1,6 +1,6 @@
-- I’m @desparvis
-- I’m interesting in programming
-- I’m currently studying at ALU
+- My name is Credo Desparvis Gutabarwa
+- I am a Full Stack Web Developer
+- I'm currently studying at ALU Rwanda
 
 <!---
 desparvis/desparvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
