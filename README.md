@@ -1,6 +1,6 @@
-Names: Credo Desparvis Gutabarwa
-Software Engineer  
-Studying At African Leadership University, Rwanda
+- Names: Credo Desparvis Gutabarwa
+- Software Engineer  
+- Studying At African Leadership University, Rwanda
 
 <!---
 desparvis/desparvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
