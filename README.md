@@ -1,5 +1,5 @@
 - Names: Credo Desparvis Gutabarwa
-- Software Engineer  
+- Software Engineer | Frontend Dev
 - Studying At African Leadership University, Rwanda
 
 <!---
