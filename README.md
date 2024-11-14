@@ -1,6 +1,6 @@
-- My name is Credo Desparvis Gutabarwa
-- I am a Full Stack Web Developer
-- I'm currently studying at ALU Rwanda
+Names: Credo Desparvis Gutabarwa
+Software Engineer  
+Studying At African Leadership University, Rwanda
 
 <!---
 desparvis/desparvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
